@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         <自用>nHentai中文标签
+// @name         nHentai中文标签
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
